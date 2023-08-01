@@ -1,4 +1,4 @@
-# Multi-Layer-Perceptron-Implementation-
+# Multi-Layer-Perceptron-Implementation
 
 ## Overview
 
@@ -14,6 +14,10 @@ The goal of this project is to demonstrate the functioning of a neural network a
   
 ![OG results](https://github.com/MGB666/Multi-Layer-Perceptron-Implementation-/assets/132854665/bee1f4dd-c61c-4b00-9ace-2cf545570386)
 
+## Data Set
+The data set for this project gathered from;
+[
+](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## License
 
