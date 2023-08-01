@@ -16,8 +16,7 @@ The goal of this project is to demonstrate the functioning of a neural network a
 
 ## Data Set
 The data set for this project gathered from;
-[
-](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+[ (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) ]
 
 ## License
 
